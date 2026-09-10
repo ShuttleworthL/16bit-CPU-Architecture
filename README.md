@@ -1,5 +1,9 @@
 # 16bit-CPU-Architecture
-custom von neumann CPU built from scratch out of logic gates in logisim evolution.
+custom von neumann CPU built from scratch out of logic gates in Logisim evolution.
+
+-note only the .circ file for the project is provided and Logisim evolution is still needed to run it, Logisim evolution can be downloaded here https://github.com/logisim-evolution/logisim-evolution/releases
+
+below is an overview of the CPU ISA and other details regarding operation:
 
 6bit operation code config:
 00-0000
